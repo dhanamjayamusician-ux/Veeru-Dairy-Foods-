@@ -1,0 +1,26 @@
+<svg width="640" height="480" viewBox="0 0 640 480" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="480" rx="36" fill="url(#bg)"/>
+  <circle cx="512" cy="116" r="88" fill="#FFF8E7" fill-opacity="0.48"/>
+  <circle cx="132" cy="392" r="104" fill="#FFFFFF" fill-opacity="0.2"/>
+  <rect x="240" y="132" width="160" height="192" rx="32" fill="#FFF8EA" fill-opacity="0.9" stroke="#F6D593" stroke-width="8"/>
+  <rect x="264" y="98" width="112" height="48" rx="22" fill="#FFFBEF" fill-opacity="0.94"/>
+  <rect x="258" y="160" width="124" height="130" rx="22" fill="url(#drink)"/>
+  <path d="M228 338C253 317 283 306 320 306C355 306 387 317 412 338" stroke="#E49B24" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="194" cy="148" r="14" fill="#A86D2F"/>
+  <circle cx="169" cy="173" r="12" fill="#C68436"/>
+  <circle cx="452" cy="298" r="15" fill="#D79235"/>
+  <text x="60" y="90" fill="#1A2A4A" font-family="Poppins, Arial, sans-serif" font-size="28" font-weight="700">Veeru Dairy Foods</text>
+  <text x="60" y="374" fill="#1A2A4A" font-family="Playfair Display, Georgia, serif" font-size="46" font-weight="700">Mini Badam Milk</text>
+  <text x="60" y="414" fill="#5C4B33" font-family="Poppins, Arial, sans-serif" font-size="22">Small cup, rich almond flavor</text>
+  <defs>
+    <linearGradient id="bg" x1="60" y1="38" x2="590" y2="444" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8DFA7"/>
+      <stop offset="0.55" stop-color="#E8AA39"/>
+      <stop offset="1" stop-color="#FFF5DE"/>
+    </linearGradient>
+    <linearGradient id="drink" x1="258" y1="160" x2="382" y2="290" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EFC56D"/>
+      <stop offset="1" stop-color="#E09C2A"/>
+    </linearGradient>
+  </defs>
+</svg>
